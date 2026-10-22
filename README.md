@@ -14,5 +14,6 @@ The note values are a habit, not a theme.
 ## Elsewhere
 
 [jacksonv.com](https://jacksonv.com) is my site.
+[@itsjackson](https://x.com/itsjackson) is my X.
 
 Linux-first. I write things down. I ship daily.
